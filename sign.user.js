@@ -1,7 +1,7 @@
 // ==UserScript==
 // @tampermonkey-safari-promotion-code-request
 // @name            [curtin110 ]
-// @version         0.1.6
+// @version         2.1.6
 // @description     集合各种平台签到
 // @author          .Seven
 // @crontab         * 1-21 once * *
